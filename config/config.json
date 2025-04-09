@@ -1,0 +1,15 @@
+{
+  "swaggerFilePath": "input/swagger/sample-api-doc.json",
+  "outputDir": "output",
+  "generateTestData": true,
+  "testDataDir": "./output/testData",
+  "validationsDir": "./output/validations",
+  "apiEndpoint": "http://127.0.0.1:4010",
+  "model": "Claude 3.5 Sonnet",
+  "allure_settings": "true",
+  "testDataSetsCount": 1,
+  "skipParamsPath": "config/skipParams.yml",
+  "useMockServer": true,
+  "testDataFormat": "csv",
+  "codeceptConfigFilePath": "./codecept.conf.js"
+}
