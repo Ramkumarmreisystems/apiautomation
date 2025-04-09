@@ -1,0 +1,5 @@
+{
+  "parameterMappings": {
+    "pguid": ["pguid", "partner_genie_user_id"]
+  }
+}
