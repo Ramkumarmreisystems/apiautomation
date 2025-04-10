@@ -1,5 +1,0 @@
-parameters:
-  - X-Auth-Token
-  - source
-  - type
-  - Auth-Key
